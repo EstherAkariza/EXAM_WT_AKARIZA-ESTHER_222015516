@@ -1,0 +1,21 @@
+USER  credentials(username:ESTHER and password:ester)
+
+Auction platforms provide a dynamic marketplace where users can buy and sell a wide variety of items through competitive bidding, creating an engaging and interactive buying experience.
+                      
+                      EXPLANATION
+                      
+User Registration: Users sign up on the platform, creating accounts with their personal information.
+
+Listing Items: Sellers create listings for the items or services they want to auction. They provide details such as item description, images, starting bid price, and auction duration.
+
+Bidding: Interested buyers browse through the listings and place bids on the items they want to purchase. Bids are typically incremental, meaning each bid must be higher than the previous one.
+
+Auction Duration: The auction runs for a specified duration, during which users can place bids on the item. The auction may have a fixed end time or be extended if there is bidding activity close to the deadline (e.g., a "soft closing" mechanism).
+
+Winning Bid: When the auction ends, the highest bid wins the item. The winning bidder is notified, and they proceed with payment and finalizing the transaction.
+
+Payment and Delivery: The winning bidder makes payment through the platform, and the seller arranges for the delivery or transfer of the item to the buyer.
+
+Feedback and Ratings: After the transaction is completed, both the buyer and seller may leave feedback and ratings for each other based on their experience.
+
+Dispute Resolution: In case of any disputes or issues during the transaction process, the auction platform may provide mechanisms for dispute resolution or customer support to resolve conflicts.
